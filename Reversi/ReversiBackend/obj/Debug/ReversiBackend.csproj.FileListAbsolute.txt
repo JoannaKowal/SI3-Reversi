@@ -1,0 +1,15 @@
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.csprojAssemblyReference.cache
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\MainWindow.g.cs
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\App.g.cs
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend_MarkupCompile.cache
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend_MarkupCompile.lref
+C:\Users\Asiek\source\repos\ReversiBackend\bin\Debug\ReversiBackend.exe.config
+C:\Users\Asiek\source\repos\ReversiBackend\bin\Debug\ReversiBackend.exe
+C:\Users\Asiek\source\repos\ReversiBackend\bin\Debug\ReversiBackend.pdb
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\MainWindow.baml
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.g.resources
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.Properties.Resources.resources
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.csproj.GenerateResource.cache
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.csproj.CoreCompileInputs.cache
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.exe
+C:\Users\Asiek\source\repos\ReversiBackend\obj\Debug\ReversiBackend.pdb
