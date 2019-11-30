@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Reversi.GameField"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Reversi"
+             mc:Ignorable="d" 
+             d:DesignHeight="7" d:DesignWidth="7">
+    <UserControl.Resources>
+        <BitmapImage x:Key="PawnWhite" UriSource="Resources/pawn_white.png" />
+        <BitmapImage x:Key="PawnBlack" UriSource="Resources/pawn_black.png" />
+        <BitmapImage x:Key="PawnEmpty" UriSource="Resources/pawn_empty.png" />
+    </UserControl.Resources>
+    <Image Name="VisualState" Source="{StaticResource PawnEmpty}" RenderTransformOrigin="0,0"
+               HorizontalAlignment="Center" Margin="0,0,0,0" MouseLeftButtonDown="Image_MouseLeftButtonDown" 
+                 VerticalAlignment="Center" />
+
+</UserControl>
